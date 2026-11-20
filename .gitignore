@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+logs/
+*.log
+.DS_Store
+
+# Private environment files
+.env
+.env.*
+client/.env
+client/.env.*
